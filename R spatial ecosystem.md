@@ -1,7 +1,7 @@
 # Spatial Ecosystem in R
 <h3>Part 1 </h3>
 
-*Kiranmayi Vadlamudi *
+*Kiranmayi Vadlamudi*
 
 If your starting out as a beginner in R or maybe just learning to handle spatial data in R, navigating the spatial ecosystem in R can be seem bit overwhelming with its many packages. Choosing the right tool for your analysis can save a lot of time and make ones life much easier. In this article I will cover the bare minimum needed to get away with some simple yet beautiful mapping and some spatial data wrangling. If you are here for a quick walk through, scroll to the example else if you don't mind reading - have a go!:zap:
 
@@ -15,7 +15,7 @@ The increased computational power, access to cloud computing resources and the v
 
 2. [sp package](https://cran.r-project.org/web/packages/sp/sp.pdf)
 
-3. [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html): Personally, I am a big fan of this package and <3  it. It's saved so much time
+3. [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html): I am a big fan of this package personally and find it so easy to use. It takes it's inspiration from `ggplot` and has layered and flexible structure to its syntax. If you use `ggplot` and want to make quick [thematic map](https://en.wikipedia.org/wiki/Thematic_map)
 
 4. [leaflet](https://rstudio.github.io/leaflet/)
 
@@ -24,4 +24,5 @@ The increased computational power, access to cloud computing resources and the v
 <h4> Putting it all together</h4>
 
 <h3> Bibliography </h3>
+
 1. [Geocomputation in R](https://geocompr.robinlovelace.net/intro.html#the-history-of-r-spatial)
